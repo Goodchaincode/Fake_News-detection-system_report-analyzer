@@ -4,7 +4,7 @@ This system will help us to detect any news fake or true , which are posted onli
 Its trained model could not be uploaded on the github due to size issue 
 Put API key in .json file , and you can integrate your own trained model also inplace of my distilBert trained mode .
 
-# Sentinel OSINT Pipeline v7.0: Fake News & Disinformation Analyzer
+# Sentinel OSINT Pipeline v7.0: 
 
 **Sentinel OSINT Pipeline v7.0** is a sophisticated Open Source Intelligence (OSINT) tool designed to detect disinformation and fake news through a multi-layered verification process. It goes beyond standard text analysis by performing a comprehensive "visual autopsy" and logical cross-referencing to evaluate both textual narratives and visual content.
 
